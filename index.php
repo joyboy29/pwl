@@ -14,8 +14,8 @@
   <h4>Menu</h4>
   <nav>
     <ul>
-      <li><a href="form-daftar.php">Daftar Baru</a></li>
-      <li><a href="list-siswa.php">Pendaftar</a></li>
+      <li><a href="assets/form-daftar.php">Daftar Baru</a></li>
+      <li><a href="assets/list-siswa.php">Pendaftar</a></li>
     </ul>
   </nav>
 
